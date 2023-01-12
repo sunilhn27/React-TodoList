@@ -1,0 +1,67 @@
+.title{
+    background-color: red;
+}
+.header {
+    overflow: hidden;
+    background-color: aquamarine;
+    padding: 20px 10px;
+
+  }
+
+  .form-style-6{
+	font: 85% Arial, Helvetica, sans-serif;
+	max-width: 500px;
+	margin: 10px auto;
+	padding: 16px;
+	background: #f7f7f7;
+}
+
+.form__field {
+    font-family: inherit;
+    width: 50%;
+    border: 0;
+    border-bottom: 2px solid gray;
+    
+}
+
+body {
+    font-family: 'Poppins', sans-serif; 
+    background-color: rgb(167, 116, 209);
+  }
+
+  input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  .addItem {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 13px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  } 
+
+  .button1 {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 12px px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 22px;
+
+  }
+
+  .gb-button-wrapper.inline-button {
+    display: inline-flex;
+}
+.item{
+    width: 100%;
+}
